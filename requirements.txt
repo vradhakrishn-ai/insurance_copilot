@@ -1,4 +1,4 @@
 openai
 streamlit
 python-dotenv
-pydantic
+pydantic>=2.0
